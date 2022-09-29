@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/apptools/static/css/main.073c9b0a.css",
+    "main.js": "/apptools/static/js/main.5a4811c1.js",
+    "static/js/787.24bef0c8.chunk.js": "/apptools/static/js/787.24bef0c8.chunk.js",
+    "static/media/logo.svg": "/apptools/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/apptools/index.html",
+    "main.073c9b0a.css.map": "/apptools/static/css/main.073c9b0a.css.map",
+    "main.5a4811c1.js.map": "/apptools/static/js/main.5a4811c1.js.map",
+    "787.24bef0c8.chunk.js.map": "/apptools/static/js/787.24bef0c8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.5a4811c1.js"
+  ]
+}
